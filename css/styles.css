@@ -640,6 +640,7 @@ color: #fff;
     display: flex;
     flex-direction: column;
     padding-left: 70px;
+    padding-top: 12px;
 }
 
 .footer .container {
