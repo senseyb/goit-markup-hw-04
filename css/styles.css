@@ -633,6 +633,9 @@ text-transform: uppercase;
 color: #fff;
 }
 
+.footer-right-item:not(:last-child) {
+    margin-right: 10px;
+}
 .footer-right {
     display: flex;
     flex-direction: column;
